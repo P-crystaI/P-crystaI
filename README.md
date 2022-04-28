@@ -1,24 +1,16 @@
-### Hi there 👋
+<h2>Hi, I'm Park Sujeong  </h2>
+<img align='right' src="https://media1.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=ecf05e475ktlgscmgzjtvxqellf0j3oapo57z6ogncddroz6&rid=giphy.gif&ct=g" width="230">
 
-<!--
-**P-crystaI/P-crystaI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p></p>
+<p></p>
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-<h2>My tech stack</h2>
 
 <div>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
