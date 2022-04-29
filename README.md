@@ -3,17 +3,13 @@
 
 
 ```Kotlin
+val pronouns = "she"
+val tech = listOf(Kotlin, Firebase, AWS, Linux, Windows, MiddleWare)
+val dream = "I want people around the world to use my app"
 
-
-
+val sujeong = Human(pronouns , 
+                    tech, 
+                    dream)
 ```
 
 
-
-
-
-<div>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> 
-</div>
-  
