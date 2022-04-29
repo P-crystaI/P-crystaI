@@ -5,9 +5,10 @@
 ```Kotlin
 val pronouns = "she"
 val tech = listOf(Kotlin, Firebase, AWS, Linux, Windows, MiddleWare)
-val dream = "I want people around the world to use my app"
+val dream = "I want to make app which get world wide users"
 
-val sujeong = Human(pronouns , 
+
+val sujeong = Human(pronouns, 
                     tech, 
                     dream)
 ```
