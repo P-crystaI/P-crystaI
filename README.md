@@ -14,7 +14,6 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<br>
 	<img src="https://img.shields.io/badge/AndroidStudio-6DB33F?style=flat&logo=AndroidStudio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-4479A1?style=flat&logo=Firebase&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
